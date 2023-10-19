@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230556289407",
+    "project_id": "rajabt-8263d",
+    "storage_bucket": "rajabt-8263d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230556289407:android:aa5c87536b73432cd1724a",
+        "android_client_info": {
+          "package_name": "ball.goal.runner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuoVFWUoev2d-AWZZgxfravmNw5WyN9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
